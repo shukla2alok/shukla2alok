@@ -27,3 +27,10 @@
 <p>&nbsp;<img align="center" width = "400" src="https://github-readme-stats.vercel.app/api?username=shukla2alok&show_icons=true&locale=en" alt="shukla2alok" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shukla2alok&" alt="shukla2alok" /></p>
+
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aloks6449/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aloks6449/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aloks6449/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aloks6449/1" alt="Recent Article 1"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aloks6449/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aloks6449/2" alt="Recent Article 2"> 
+
