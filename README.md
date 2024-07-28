@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <strong>Python Frameworks:</strong><br/>
+  <strong>Python Libraries:</strong><br/>
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NumPy-%230F7F7F?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" width="90" height="30"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" width="90" height="30"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Matplotlib-%23B71C1C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" width="90" height="30"/></a>
